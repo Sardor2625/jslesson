@@ -160,6 +160,8 @@
 //   };
   
 //   console.log(sumSalaries(salaries)); // Output: 8900
+console.log(0);
+
 
 
 
